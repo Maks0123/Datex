@@ -1,0 +1,64 @@
+﻿.row {
+margin-left:auto;
+}
+
+.row{
+    width:101%;
+}
+
+.col-sm-6 {
+    text-align:center;
+    max-width: 370px;
+    padding:10px;
+  
+  
+}
+
+.col-sm-6:hover {
+    margin: 10px auto;
+    padding: 1em;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, .3), -23px 0 20px -23px rgba(0, 0, 0, .8), 23px 0 20px -23px rgba(0, 0, 0, .8), 0 0 40px rgba(0, 0, 0, .1) inset;
+}
+
+
+.col-md-3 {
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    padding: 0px 4px;
+    margin: 2px;
+    -webkit-box-shadow: 0 5px 2px -3px rgba(0, 0, 0, 0.1), 0 1px 0px rgba(0, 0, 0, 0.1);
+    -moz-box-shadow: 0 5px 2px -3px rgba(0, 0, 0, 0.1), 0 1px 0px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 5px 2px -3px rgba(0, 0, 0, 0.1), 0 1px 0px rgba(0, 0, 0, 0.1);
+    max-width:264px;
+
+}
+
+ .col-md-3 ul li {
+        margin-left: 0;
+        padding-left: 0;
+    }
+
+    .col-md-3:hover {
+        background-color: #1dcaff;
+        color: white;
+        max-width: 264px;
+        border-radius: 10px 40px;
+    }
+
+
+.col-md-4{
+   
+    border: solid 2px white;
+}
+
+
+.col-md-4:hover{
+   
+}
+
+#space {
+    background-color: black;
+    /* Firefox */
+    background-image: -moz-radial-gradient(circle, #FFFFFF 2px, rgba(248,255,128,.5) 4px, transparent 40px), -moz-radial-gradient(circle, #FFFFFF 1px, rgba(255,186,170,.4) 3px, transparent 30px), -moz-radial-gradient(ellipse, rgba(255,255,255,.9) 1px, rgba(251,255,186,.3) 2px, transparent 40px), -moz-radial-gradient(ellipse, rgba(255,255,255,.4), rgba(253,255,219,.2) 1px, transparent 30px);
+    /* Webkit */
+    background-image: -webkit-gradient(radial, 50% 50%, 2, 50% 50%, 40, from(white), color-stop(0.1, rgba(248,255,128,.5)), to(transparent)), -webkit-gradient(radial, 50% 50%, 1, 50% 50%, 30, from(white), color-stop(0.1, rgba(255,186,170,.4)), to(transparent)),
+}

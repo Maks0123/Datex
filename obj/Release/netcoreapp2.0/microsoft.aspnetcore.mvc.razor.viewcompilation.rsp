@@ -1,0 +1,15 @@
+C:\Users\Bravis\source\repos\MyDatex\MyDatex
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=MyDatex
+--content-root=C:\Users\Bravis\source\repos\MyDatex\MyDatex
+--file=C:\Users\Bravis\source\repos\MyDatex\MyDatex\Views\ENG\Index.cshtml
+--file=C:\Users\Bravis\source\repos\MyDatex\MyDatex\Views\ENG\_ServiceIndex_1.cshtml
+--file=C:\Users\Bravis\source\repos\MyDatex\MyDatex\Views\ENG\_ServicessIndex.cshtml
+--file=C:\Users\Bravis\source\repos\MyDatex\MyDatex\Views\Home\Index.cshtml
+--file=C:\Users\Bravis\source\repos\MyDatex\MyDatex\Views\Home\_ServiceIndex_1.cshtml
+--file=C:\Users\Bravis\source\repos\MyDatex\MyDatex\Views\Shared\Error.cshtml
+--file=C:\Users\Bravis\source\repos\MyDatex\MyDatex\Views\Shared\_Layout.cshtml
+--file=C:\Users\Bravis\source\repos\MyDatex\MyDatex\Views\Shared\_SelectLanguage.cshtml
+--file=C:\Users\Bravis\source\repos\MyDatex\MyDatex\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=C:\Users\Bravis\source\repos\MyDatex\MyDatex\Views\_ViewImports.cshtml
+--file=C:\Users\Bravis\source\repos\MyDatex\MyDatex\Views\_ViewStart.cshtml
